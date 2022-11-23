@@ -6,3 +6,11 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: svrepmisc
+Version: 0.2.2
+Imports: survey, MASS, nnet, quantreg, crch, broom, ordinal
+Suggests: covr, pander, testthat
+License: GPL-3
+MD5sum: 76992445158f7bd992ae2934628d9542
+NeedsCompilation: no
